@@ -28,7 +28,7 @@ input[type="search"]{
     border: none;
 }
 .img{
-    width: 90%;
+    width: 100%;
     padding: 20px;
     border: solid ;
     border-color: bisque;
@@ -46,10 +46,13 @@ input[type="search"]{
 }
 button{
     padding: 5px;
-    width: 30%;
+    width: 50%;
     cursor: pointer;
 }
 .nav{
     width: 40%;
     
+}
+.top{
+    display: flex;
 }
