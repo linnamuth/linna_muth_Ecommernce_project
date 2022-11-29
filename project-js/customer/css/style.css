@@ -65,14 +65,14 @@ button{
 }
 .nav{
     width: 85%;
-    background-color: rgb(243, 214, 214);
+    background-color: rgb(252, 249, 249);
     border-radius: 20px;
     padding: 10px;
 
 }
 .nav1{
     width: 80%;
-    background-color: rgb(243, 214, 214);
+    background-color: rgb(252, 249, 249);
     border-radius: 20px;
     padding: 35px; 
 }
@@ -80,14 +80,14 @@ button{
     width: 80%;
     /* border: solid bisque; */
     padding: 30px;
-    background-color: rgb(243, 214, 214);
+    background-color: rgb(252, 249, 249);
     border-radius: 20px; 
 }
 .nav3{
     width: 70%;
     /* border: solid bisque; */
     padding: 55px;
-    background-color: rgb(243, 214, 214);
+    background-color: rgb(252, 249, 249);
     border-radius: 20px;
 }
 
@@ -101,25 +101,25 @@ button{
 }
 .nav-l{
     width: 70%;
-    background-color: rgb(243, 214, 214);
+    background-color: rgb(252, 249, 249);
     border-radius: 20px;
     padding: 40px; 
 }
 .nav-li{
     width: 45%;
-    background-color: rgb(243, 214, 214);
+    background-color: rgb(252, 249, 249);
     border-radius: 20px;
     padding: 25%;
 }
 .nav-light{
     width: 60%;
-    background-color: rgb(243, 214, 214);
+    background-color: rgb(252, 249, 249);
     border-radius: 20px;
     padding: 15%;
 }
 .nav-img{
     width: 60%;
-    background-color: rgb(243, 214, 214);
+    background-color: rgb(252, 249, 249);
     border-radius: 20px;
     padding: 10%;
 }
