@@ -47,3 +47,9 @@ button{
     margin-top: 5%;
     
 }
+:hover.customer{
+    color: blue;
+}
+:hover.seller{
+    color: blue;
+}
